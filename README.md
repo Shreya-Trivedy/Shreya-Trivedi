@@ -8,7 +8,6 @@
 - 🌩️ Cloud Dashboards
 
 🌱 Currently learning: Generative AI | LORA | Tacotron2  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/shreya-trivedi-017724241/) | [Portfolio](https://yourportfolio.com)
 
 🧠 Projects:
 - [ClosetTech](https://github.com/Shreya-Trivedy/ClosetTech-Virtual-Try-On)
@@ -20,4 +19,4 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-trivedi-017724241/)
 - 📧 Email: 22shreyatrivedi@gmail.com 
-- 🌐 https://shreya-trivedi-portfolio-nexus.lovable.app/
+- 🌐 [Portfolio](https://shreya-trivedi-portfolio-nexus.lovable.app/)
