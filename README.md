@@ -14,3 +14,10 @@
 - [ClosetTech](https://github.com/Shreya-Trivedy/ClosetTech-Virtual-Try-On)
 - [AI Image Enhancer](https://github.com/Shreya-Trivedy/AI-Image-Enhancer)
 - [Weather Dashboard](https://github.com/Shreya-Trivedy/Cloud-Based_WeatherDashboard)
+
+
+### 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-trivedi-017724241/)
+- 📧 Email: 22shreyatrivedi@gmail.com 
+- 🌐 https://shreya-trivedi-portfolio-nexus.lovable.app/
